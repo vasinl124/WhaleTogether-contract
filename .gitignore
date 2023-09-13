@@ -1,0 +1,10 @@
+node_modules
+.env
+.DS_Store
+
+deployments
+
+#Hardhat files
+cache
+artifacts
+try-metadata.json
