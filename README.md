@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
 <a href="https://whaletogether.com/" target="_blank">
-<img src="./whaletogether-logo.jpg" width="100" alt="Black Dust logo" style="border-radius: 50%">
+<img src="./whaletogether-logo.jpg" width="100" alt="WhaleTogether logo" style="border-radius: 50%">
 </a>
 </p>
 <br/>
@@ -22,3 +22,5 @@ Community | Education | Tools | Alpha - Because together, we're stronger. Let's 
 - Sale with whitelist
 - Auto-accumulate Moon Tokens while holding WhaleTogether NFT
 - Dev wallet support
+
+<img src="./whaletogether-nft-collection.gif" alt="WhaleTogether NFT">
